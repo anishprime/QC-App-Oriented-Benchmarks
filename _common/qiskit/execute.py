@@ -428,9 +428,9 @@ def set_execution_target(backend_id='qasm_simulator',
                 # DEVNOTE : If dynamic circuit is enabled in the exec_options, then If Else Operation
                 # is imported so that the Hardware device supports the feature.
                 ######@@@@@@@@@@@@###########
-                if exec_options.get("dynamic_circuit"):
-                    from qiskit.circuit import IfElseOp
-                    backend.target.add_instruction(IfElseOp, name="if_else")
+                # if exec_options.get("dynamic_circuit"):
+                #     from qiskit.circuit import IfElseOp
+                #     backend.target.add_instruction(IfElseOp, name="if_else")
                 ######@@@@@@@@@@@@###########
 
             except Exception as ex:
