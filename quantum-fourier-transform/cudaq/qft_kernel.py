@@ -93,7 +93,7 @@ def qft_kernel(num_qubits: int, secret_int: int, init_phases: List[float], metho
 			ri_q = num_qubits - i_q - 1
 			divisor = 2 ** (i_q)
 			rz( 1 * M_PI / divisor , qubits[ri_q])
-		"""
+		
 		# note: Dynamic circuits are only supported for monolithic kernels, therefore, we
 		# cannot do a function call to a circuit containing dynamic circuits as of July 16, 2025.
 		if use_midcircuit_measurement:
@@ -118,10 +118,7 @@ def qft_kernel(num_qubits: int, secret_int: int, init_phases: List[float], metho
 							divisor = 2 ** (j + 1)
 							rz( -M_PI / divisor , qubits[ri_qubit - j - 1])	
 		else:
-		"""
-		
-		# perform inverse quantum fourier transform to convert back to computational basis
-		iqft(qubits)
+			iqft(qubits)
 
 		# Measure to gather sampling statistics
 		mz(qubits)
@@ -144,8 +141,6 @@ def barrier(qubits: cudaq.qview, num_qubits: int):
 			
 			
 def QuantumFourierTransform (num_qubits: int, secret_int: int, init_phase: List[float], method: int = 1, use_midcircuit_measurement: bool = False):
-
-	
 	qc = [qft_kernel, [num_qubits, secret_int, init_phase, method, use_midcircuit_measurement]]
 
 	global QC_

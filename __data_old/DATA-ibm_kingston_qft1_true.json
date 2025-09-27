@@ -1,0 +1,94 @@
+{
+  "Benchmark Results - Quantum Fourier Transform (1) - Qiskit": {
+    "backend_id": "ibm_kingston",
+    "circuit_metrics": null,
+    "end_time": 1752507676.1824272,
+    "group_metrics": {
+      "avg_create_times": [],
+      "avg_depths": [],
+      "avg_elapsed_times": [],
+      "avg_exec_creating_times": [],
+      "avg_exec_running_times": [],
+      "avg_exec_times": [],
+      "avg_exec_validating_times": [],
+      "avg_fidelities": [],
+      "avg_hf_fidelities": [],
+      "avg_tr_depths": [],
+      "avg_tr_n2qs": [],
+      "avg_tr_xis": [],
+      "avg_xis": [],
+      "groups": [],
+      "job_ids": [],
+      "std_create_times": [],
+      "std_elapsed_times": [],
+      "std_exec_times": [],
+      "std_fidelities": [],
+      "std_hf_fidelities": []
+    },
+    "start_time": 1752507674.384767
+  },
+  "Benchmark Results - Quantum Fourier Transform (2) - Qiskit": {
+    "backend_id": "ibm_kingston",
+    "circuit_metrics": null,
+    "end_time": 1753455188.4444346,
+    "group_metrics": {
+      "avg_create_times": [
+        0.01
+      ],
+      "avg_depths": [
+        19.0
+      ],
+      "avg_elapsed_times": [
+        68.422
+      ],
+      "avg_exec_creating_times": [],
+      "avg_exec_running_times": [],
+      "avg_exec_times": [
+        0.0
+      ],
+      "avg_exec_validating_times": [],
+      "avg_fidelities": [
+        0
+      ],
+      "avg_hf_fidelities": [
+        0
+      ],
+      "avg_tr_depths": [
+        20.0
+      ],
+      "avg_tr_n2qs": [
+        0.0
+      ],
+      "avg_tr_xis": [
+        0.0
+      ],
+      "avg_xis": [
+        0.0
+      ],
+      "groups": [
+        "4"
+      ],
+      "job_ids": [
+        [
+          "d21pk44lir9s73aj5kng"
+        ]
+      ],
+      "std_create_times": [
+        0.0
+      ],
+      "std_elapsed_times": [
+        0.0
+      ],
+      "std_exec_times": [
+        0.0
+      ],
+      "std_fidelities": [
+        0
+      ],
+      "std_hf_fidelities": [
+        0
+      ]
+    },
+    "start_time": 1753455118.584645
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "Benchmark Results - Quantum Fourier Transform (1) - Qiskit": {
+    "backend_id": "ibm_marrakesh",
+    "circuit_metrics": null,
+    "end_time": 1752691455.5788975,
+    "group_metrics": {
+      "avg_create_times": [],
+      "avg_depths": [],
+      "avg_elapsed_times": [],
+      "avg_exec_creating_times": [],
+      "avg_exec_running_times": [],
+      "avg_exec_times": [],
+      "avg_exec_validating_times": [],
+      "avg_fidelities": [],
+      "avg_hf_fidelities": [],
+      "avg_tr_depths": [],
+      "avg_tr_n2qs": [],
+      "avg_tr_xis": [],
+      "avg_xis": [],
+      "groups": [],
+      "job_ids": [],
+      "std_create_times": [],
+      "std_elapsed_times": [],
+      "std_exec_times": [],
+      "std_fidelities": [],
+      "std_hf_fidelities": []
+    },
+    "start_time": 1752691454.2659662
+  },
+  "Benchmark Results - Quantum Fourier Transform (2) - Qiskit": {
+    "backend_id": "ibm_marrakesh",
+    "circuit_metrics": null,
+    "end_time": 1752692892.4594257,
+    "group_metrics": {
+      "avg_create_times": [
+        0.004,
+        0.004,
+        0.005,
+        0.004,
+        0.003,
+        0.004,
+        0.004,
+        0.003,
+        0.004
+      ],
+      "avg_depths": [
+        6.0,
+        9.0,
+        13.0,
+        18.0,
+        24.0,
+        31.0,
+        39.0,
+        48.0,
+        58.0
+      ],
+      "avg_elapsed_times": [
+        722.28,
+        975.83,
+        1050.876,
+        614.102,
+        162.006,
+        17.522,
+        16.912,
+        16.47,
+        17.322
+      ],
+      "avg_exec_creating_times": [
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001
+      ],
+      "avg_exec_running_times": [
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001
+      ],
+      "avg_exec_times": [
+        4.786,
+        3.767,
+        1.959,
+        1.749,
+        1.656,
+        1.705,
+        1.777,
+        1.71,
+        1.785
+      ],
+      "avg_exec_validating_times": [
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001
+      ],
+      "avg_fidelities": [
+        0.98,
+        0.925,
+        0.882,
+        0.701,
+        0.633,
+        0.113,
+        0.53,
+        0.332,
+        0.065
+      ],
+      "avg_hf_fidelities": [
+        0.985,
+        0.934,
+        0.889,
+        0.71,
+        0.638,
+        0.12,
+        0.532,
+        0.333,
+        0.066
+      ],
+      "avg_tr_depths": [
+        8.0,
+        16.0,
+        27.0,
+        41.0,
+        58.0,
+        78.0,
+        101.0,
+        127.0,
+        156.0
+      ],
+      "avg_tr_n2qs": [
+        2.0,
+        6.0,
+        12.0,
+        20.0,
+        30.0,
+        42.0,
+        56.0,
+        72.0,
+        90.0
+      ],
+      "avg_tr_xis": [
+        0.262,
+        0.333,
+        0.364,
+        0.385,
+        0.4,
+        0.412,
+        0.421,
+        0.429,
+        0.435
+      ],
+      "avg_xis": [
+        0.143,
+        0.25,
+        0.333,
+        0.4,
+        0.455,
+        0.5,
+        0.538,
+        0.571,
+        0.6
+      ],
+      "groups": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "job_ids": [
+        [
+          "d1rv8mk7uv5s73a6vvbg",
+          "d1rv8ms7uv5s73a6vvc0",
+          "d1rv8n6jpjps738m99p0"
+        ],
+        [
+          "d1rv8nejpjps738m99pg",
+          "d1rv8nds0e1s73bmnp9g",
+          "d1rv8nls0e1s73bmnpa0"
+        ],
+        [
+          "d1rv8nts0e1s73bmnpbg",
+          "d1rv8o47uv5s73a6vvdg",
+          "d1rv8ods0e1s73bmnpc0"
+        ],
+        [
+          "d1rv8og1mggs73b7cc30",
+          "d1rvd2ds0e1s73bmnv6g",
+          "d1rvepls0e1s73bmo0ug"
+        ],
+        [
+          "d1rvf6ejpjps738m9i30",
+          "d1rvf75s0e1s73bmo1d0",
+          "d1rvgtds0e1s73bmo33g"
+        ],
+        [
+          "d1rvgu47uv5s73a7095g",
+          "d1rvguejpjps738m9jvg",
+          "d1rvguujpjps738m9k0g"
+        ],
+        [
+          "d1rvgvejpjps738m9k1g",
+          "d1rvgvujpjps738m9k30",
+          "d1rvh0ejpjps738m9k3g"
+        ],
+        [
+          "d1rvh0o1mggs73b7cl30",
+          "d1rvh1ejpjps738m9k5g",
+          "d1rvh1k7uv5s73a7098g"
+        ],
+        [
+          "d1rvh26jpjps738m9k70",
+          "d1rvh2ds0e1s73bmo390",
+          "d1rvh2o1mggs73b7cl50"
+        ]
+      ],
+      "std_create_times": [
+        0.0,
+        0.0,
+        0.0,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.0,
+        0.001
+      ],
+      "std_elapsed_times": [
+        67.741,
+        59.175,
+        0.648,
+        188.687,
+        58.418,
+        0.241,
+        0.089,
+        0.198,
+        0.454
+      ],
+      "std_exec_times": [
+        1.222,
+        1.279,
+        0.072,
+        0.001,
+        0.043,
+        0.065,
+        0.012,
+        0.063,
+        0.013
+      ],
+      "std_fidelities": [
+        0.006,
+        0.005,
+        0.005,
+        0.012,
+        0.04,
+        0.028,
+        0.008,
+        0.01,
+        0.006
+      ],
+      "std_hf_fidelities": [
+        0.005,
+        0.004,
+        0.005,
+        0.011,
+        0.039,
+        0.028,
+        0.008,
+        0.01,
+        0.006
+      ]
+    },
+    "start_time": 1752691800.4779558
+  }
+}

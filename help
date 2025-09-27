@@ -1,0 +1,4 @@
+git remote set-url origin git@github.com:anishprime/QC-App-Oriented-Benchmarks.git
+cudaq@bb95177c0195:~/QC-App-Oriented-Benchmarks/deutsch-jozsa$ git push origin dynamic_circuits
+
+

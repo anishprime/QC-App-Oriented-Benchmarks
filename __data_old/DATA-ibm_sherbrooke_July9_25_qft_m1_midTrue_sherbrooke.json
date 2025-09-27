@@ -1,0 +1,218 @@
+{
+  "Benchmark Results - Quantum Fourier Transform (1) - Qiskit": {
+    "backend_id": "ibm_sherbrooke",
+    "circuit_metrics": null,
+    "end_time": 1752090920.8969688,
+    "group_metrics": {
+      "avg_create_times": [
+        0.007,
+        0.009,
+        0.008,
+        0.016,
+        0.022,
+        0.025,
+        0.074
+      ],
+      "avg_depths": [
+        11.0,
+        18.0,
+        27.0,
+        38.0,
+        51.0,
+        66.0,
+        83.0
+      ],
+      "avg_elapsed_times": [
+        31.326,
+        23.613,
+        25.613,
+        22.373,
+        27.596,
+        18.793,
+        19.207
+      ],
+      "avg_exec_creating_times": [
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001
+      ],
+      "avg_exec_running_times": [
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001
+      ],
+      "avg_exec_times": [
+        14.207,
+        6.076,
+        7.849,
+        6.066,
+        9.214,
+        2.484,
+        2.753
+      ],
+      "avg_exec_validating_times": [
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001
+      ],
+      "avg_fidelities": [
+        0.812,
+        0.133,
+        0.01,
+        0.0,
+        0.009,
+        0.006,
+        0.002
+      ],
+      "avg_hf_fidelities": [
+        0.859,
+        0.239,
+        0.065,
+        0.025,
+        0.025,
+        0.014,
+        0.006
+      ],
+      "avg_tr_depths": [
+        18.0,
+        32.0,
+        50.0,
+        72.0,
+        98.0,
+        128.0,
+        162.0
+      ],
+      "avg_tr_n2qs": [
+        2.0,
+        6.0,
+        12.0,
+        20.0,
+        30.0,
+        42.0,
+        56.0
+      ],
+      "avg_tr_xis": [
+        0.123,
+        0.192,
+        0.232,
+        0.262,
+        0.281,
+        0.295,
+        0.307
+      ],
+      "avg_xis": [
+        0.107,
+        0.184,
+        0.234,
+        0.275,
+        0.302,
+        0.321,
+        0.339
+      ],
+      "groups": [
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "job_ids": [
+        [
+          "d1qcgy3erkq0008nndm0",
+          "d1qcgykf0e900084cfg0",
+          "d1qcgz3s91d0008qvjt0"
+        ],
+        [
+          "d1qch4wx3st0008ykrrg",
+          "d1qch6wzeebg0081sg6g",
+          "d1qch7ms91d0008qvjvg"
+        ],
+        [
+          "d1qchbnzeebg0081sg8g",
+          "d1qchcds91d0008qvjw0",
+          "d1qchdds91d0008qvjwg"
+        ],
+        [
+          "d1qchj6f0e900084cfjg",
+          "d1qchjyf0e900084cfkg",
+          "d1qchkpzeebg0081sga0"
+        ],
+        [
+          "d1qchq6zeebg0081sgag",
+          "d1qchqyzeebg0081sgb0",
+          "d1qchtqs91d0008qvjxg"
+        ],
+        [
+          "d1qchyzs91d0008qvjyg",
+          "d1qchzqs91d0008qvjz0",
+          "d1qcj08erkq0008nnds0"
+        ],
+        [
+          "d1qcj38zeebg0081sgd0",
+          "d1qcj48f0e900084cfmg",
+          "d1qcj58s91d0008qvk00"
+        ]
+      ],
+      "std_create_times": [
+        0.001,
+        0.002,
+        0.001,
+        0.003,
+        0.004,
+        0.005,
+        0.036
+      ],
+      "std_elapsed_times": [
+        1.287,
+        1.598,
+        0.149,
+        2.18,
+        2.544,
+        0.511,
+        0.239
+      ],
+      "std_exec_times": [
+        2.426,
+        1.78,
+        0.586,
+        2.178,
+        1.939,
+        0.124,
+        0.135
+      ],
+      "std_fidelities": [
+        0.069,
+        0.054,
+        0.006,
+        0.0,
+        0.001,
+        0.002,
+        0.001
+      ],
+      "std_hf_fidelities": [
+        0.051,
+        0.05,
+        0.01,
+        0.002,
+        0.001,
+        0.002,
+        0.001
+      ]
+    },
+    "start_time": 1752090732.6339536
+  }
+}

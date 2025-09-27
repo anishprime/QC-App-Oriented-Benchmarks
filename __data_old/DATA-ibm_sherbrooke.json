@@ -1,0 +1,130 @@
+{
+  "Benchmark Results - Quantum Fourier Transform (1) - Qiskit": {
+    "backend_id": "ibm_sherbrooke",
+    "circuit_metrics": null,
+    "end_time": 1752507721.295835,
+    "group_metrics": {
+      "avg_create_times": [
+        0.016
+      ],
+      "avg_depths": [
+        27.0
+      ],
+      "avg_elapsed_times": [
+        2.885
+      ],
+      "avg_exec_creating_times": [],
+      "avg_exec_running_times": [],
+      "avg_exec_times": [
+        0.0
+      ],
+      "avg_exec_validating_times": [],
+      "avg_fidelities": [
+        0
+      ],
+      "avg_hf_fidelities": [
+        0
+      ],
+      "avg_tr_depths": [
+        50.0
+      ],
+      "avg_tr_n2qs": [
+        12.0
+      ],
+      "avg_tr_xis": [
+        0.235
+      ],
+      "avg_xis": [
+        0.24
+      ],
+      "groups": [
+        "4"
+      ],
+      "job_ids": [
+        [
+          "d1qiahv6d0hc73b9jf30"
+        ]
+      ],
+      "std_create_times": [
+        0.0
+      ],
+      "std_elapsed_times": [
+        0.0
+      ],
+      "std_exec_times": [
+        0.0
+      ],
+      "std_fidelities": [
+        0
+      ],
+      "std_hf_fidelities": [
+        0
+      ]
+    },
+    "start_time": 1752507717.2467356
+  },
+  "Benchmark Results - Quantum Fourier Transform (2) - Qiskit": {
+    "backend_id": "ibm_sherbrooke",
+    "circuit_metrics": null,
+    "end_time": 1752511058.6105742,
+    "group_metrics": {
+      "avg_create_times": [
+        0.014
+      ],
+      "avg_depths": [
+        17.0
+      ],
+      "avg_elapsed_times": [
+        3.032
+      ],
+      "avg_exec_creating_times": [],
+      "avg_exec_running_times": [],
+      "avg_exec_times": [
+        0.0
+      ],
+      "avg_exec_validating_times": [],
+      "avg_fidelities": [
+        0
+      ],
+      "avg_hf_fidelities": [
+        0
+      ],
+      "avg_tr_depths": [
+        19.0
+      ],
+      "avg_tr_n2qs": [
+        0.0
+      ],
+      "avg_tr_xis": [
+        0.0
+      ],
+      "avg_xis": [
+        0.0
+      ],
+      "groups": [
+        "4"
+      ],
+      "job_ids": [
+        [
+          "d1qj4k33rr0s73biqic0"
+        ]
+      ],
+      "std_create_times": [
+        0.0
+      ],
+      "std_elapsed_times": [
+        0.0
+      ],
+      "std_exec_times": [
+        0.0
+      ],
+      "std_fidelities": [
+        0
+      ],
+      "std_hf_fidelities": [
+        0
+      ]
+    },
+    "start_time": 1752511054.2144222
+  }
+}

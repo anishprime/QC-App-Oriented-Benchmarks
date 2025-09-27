@@ -1,0 +1,174 @@
+{
+  "Benchmark Results - Quantum Fourier Transform (1) - Qiskit": {
+    "backend_id": "ibm_marrakesh",
+    "circuit_metrics": null,
+    "end_time": 1752784884.2075226,
+    "group_metrics": {
+      "avg_create_times": [
+        0.009,
+        0.008,
+        0.018
+      ],
+      "avg_depths": [
+        11.0,
+        18.0,
+        27.0
+      ],
+      "avg_elapsed_times": [
+        3992.923,
+        3872.424,
+        4001.133
+      ],
+      "avg_exec_creating_times": [],
+      "avg_exec_running_times": [],
+      "avg_exec_times": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "avg_exec_validating_times": [],
+      "avg_fidelities": [
+        0,
+        0,
+        0
+      ],
+      "avg_hf_fidelities": [
+        0,
+        0,
+        0
+      ],
+      "avg_tr_depths": [
+        18.0,
+        32.0,
+        50.0
+      ],
+      "avg_tr_n2qs": [
+        2.0,
+        6.0,
+        12.0
+      ],
+      "avg_tr_xis": [
+        0.123,
+        0.192,
+        0.232
+      ],
+      "avg_xis": [
+        0.107,
+        0.184,
+        0.234
+      ],
+      "groups": [
+        "2",
+        "3",
+        "4"
+      ],
+      "job_ids": [
+        [
+          "d1sl0j1racrs738aeb40",
+          "d1sl0j4rg24s738kvas0",
+          "d1sl0j9mr05s73a3pjq0"
+        ],
+        [
+          "d1sl0jpmr05s73a3pjr0",
+          "d1sl0k0kchbs73c71gcg",
+          "d1sl0k9mr05s73a3pjrg"
+        ],
+        [
+          "d1sl0kkrg24s738kvatg",
+          "d1sl0kokchbs73c71ge0",
+          "d1sl0l0kchbs73c71geg"
+        ]
+      ],
+      "std_create_times": [
+        0.0,
+        0.001,
+        0.0
+      ],
+      "std_elapsed_times": [
+        1.662,
+        102.607,
+        0.398
+      ],
+      "std_exec_times": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "std_fidelities": [
+        0,
+        0,
+        0
+      ],
+      "std_hf_fidelities": [
+        0,
+        0,
+        0
+      ]
+    },
+    "start_time": 1752780873.5684295
+  },
+  "Benchmark Results - Quantum Fourier Transform (2) - Qiskit": {
+    "backend_id": "ibm_marrakesh",
+    "circuit_metrics": null,
+    "end_time": 1752856863.8554964,
+    "group_metrics": {
+      "avg_create_times": [
+        0.013
+      ],
+      "avg_depths": [
+        12.0
+      ],
+      "avg_elapsed_times": [
+        5829.826
+      ],
+      "avg_exec_creating_times": [],
+      "avg_exec_running_times": [],
+      "avg_exec_times": [
+        0.0
+      ],
+      "avg_exec_validating_times": [],
+      "avg_fidelities": [
+        0
+      ],
+      "avg_hf_fidelities": [
+        0
+      ],
+      "avg_tr_depths": [
+        13.0
+      ],
+      "avg_tr_n2qs": [
+        0.0
+      ],
+      "avg_tr_xis": [
+        0.0
+      ],
+      "avg_xis": [
+        0.0
+      ],
+      "groups": [
+        "3"
+      ],
+      "job_ids": [
+        [
+          "d1t64mpracrs738av3kg"
+        ]
+      ],
+      "std_create_times": [
+        0.0
+      ],
+      "std_elapsed_times": [
+        0.0
+      ],
+      "std_exec_times": [
+        0.0
+      ],
+      "std_fidelities": [
+        0
+      ],
+      "std_hf_fidelities": [
+        0
+      ]
+    },
+    "start_time": 1752851032.3346486
+  }
+}

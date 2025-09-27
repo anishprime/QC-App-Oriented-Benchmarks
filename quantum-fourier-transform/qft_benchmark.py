@@ -92,6 +92,7 @@ def analyze_and_print_result (qc, result, num_qubits, secret_int, num_shots, met
 
     # obtain counts from the result object
     counts = result.get_counts(qc)
+    print(counts)
     if verbose: print(f"For secret int {secret_int} measured: {counts}") 
 
     # For method 1, expected result is always the secret_int

@@ -1,0 +1,306 @@
+{
+  "Benchmark Results - Phase Estimation - Qiskit": {
+    "backend_id": "ibm_fez",
+    "circuit_metrics": null,
+    "end_time": 1753804470.5398698,
+    "group_metrics": {
+      "avg_create_times": [
+        0.017,
+        0.022,
+        0.027,
+        0.04,
+        0.028,
+        0.046,
+        0.058,
+        0.055
+      ],
+      "avg_depths": [
+        16.0,
+        24.0,
+        33.0,
+        43.0,
+        54.0,
+        66.0,
+        79.0,
+        93.0
+      ],
+      "avg_elapsed_times": [
+        443.455,
+        522.796,
+        551.256,
+        273.304,
+        73.095,
+        14.577,
+        12.317,
+        10.473
+      ],
+      "avg_exec_creating_times": [
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001
+      ],
+      "avg_exec_running_times": [
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001
+      ],
+      "avg_exec_times": [
+        4.224,
+        1.609,
+        1.368,
+        1.372,
+        1.366,
+        1.37,
+        1.389,
+        1.382
+      ],
+      "avg_exec_validating_times": [
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001,
+        0.001
+      ],
+      "avg_fidelities": [
+        0.901,
+        0.755,
+        0.339,
+        0.397,
+        0.05,
+        0.088,
+        0.063,
+        0.022
+      ],
+      "avg_hf_fidelities": [
+        0.926,
+        0.785,
+        0.38,
+        0.416,
+        0.065,
+        0.095,
+        0.067,
+        0.024
+      ],
+      "avg_tr_depths": [
+        18.0,
+        27.0,
+        35.0,
+        46.0,
+        58.0,
+        71.0,
+        83.0,
+        98.0
+      ],
+      "avg_tr_n2qs": [
+        2.333,
+        4.333,
+        5.667,
+        7.667,
+        9.667,
+        11.667,
+        12.333,
+        14.333
+      ],
+      "avg_tr_xis": [
+        0.121,
+        0.146,
+        0.139,
+        0.143,
+        0.144,
+        0.142,
+        0.13,
+        0.127
+      ],
+      "avg_xis": [
+        0.25,
+        0.24,
+        0.229,
+        0.217,
+        0.207,
+        0.197,
+        0.188,
+        0.18
+      ],
+      "groups": [
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "job_ids": [
+        [
+          "d24eosf291fs7394pjv0",
+          "d24eosv39ohc73e5vmvg",
+          "d24eot5c17vc73dspk6g"
+        ],
+        [
+          "d24eotf39ohc73e5vn00",
+          "d24eotn39ohc73e5vn1g",
+          "d24eotv291fs7394pk1g"
+        ],
+        [
+          "d24eoudc17vc73dspk8g",
+          "d24eoun291fs7394pk2g",
+          "d24eoutc17vc73dspka0"
+        ],
+        [
+          "d24eovn39ohc73e5vn30",
+          "d24es5f291fs7394pnb0",
+          "d24esbv291fs7394pnj0"
+        ],
+        [
+          "d24esheliavc738i7tg0",
+          "d24esi739ohc73e5vqng",
+          "d24et7dc17vc73dspong"
+        ],
+        [
+          "d24et7v39ohc73e5vre0",
+          "d24et8739ohc73e5vreg",
+          "d24et8n291fs7394pog0"
+        ],
+        [
+          "d24et8tc17vc73dspopg",
+          "d24et9n39ohc73e5vrh0",
+          "d24eta6liavc738i7ubg"
+        ],
+        [
+          "d24etaf39ohc73e5vri0",
+          "d24etauliavc738i7ucg",
+          "d24etbf291fs7394pojg"
+        ]
+      ],
+      "std_create_times": [
+        0.002,
+        0.003,
+        0.005,
+        0.006,
+        0.002,
+        0.009,
+        0.012,
+        0.0
+      ],
+      "std_elapsed_times": [
+        10.508,
+        22.943,
+        0.187,
+        113.451,
+        22.983,
+        0.533,
+        0.576,
+        0.15
+      ],
+      "std_exec_times": [
+        0.94,
+        0.149,
+        0.004,
+        0.008,
+        0.008,
+        0.007,
+        0.012,
+        0.011
+      ],
+      "std_fidelities": [
+        0.012,
+        0.048,
+        0.177,
+        0.052,
+        0.013,
+        0.057,
+        0.025,
+        0.005
+      ],
+      "std_hf_fidelities": [
+        0.009,
+        0.042,
+        0.166,
+        0.051,
+        0.013,
+        0.056,
+        0.025,
+        0.004
+      ]
+    },
+    "start_time": 1753803885.978394
+  },
+  "Benchmark Results - Quantum Fourier Transform (2) - Qiskit": {
+    "backend_id": "ibm_fez",
+    "circuit_metrics": null,
+    "end_time": 1753467344.9389355,
+    "group_metrics": {
+      "avg_create_times": [
+        0.017
+      ],
+      "avg_depths": [
+        19.0
+      ],
+      "avg_elapsed_times": [
+        270.078
+      ],
+      "avg_exec_creating_times": [],
+      "avg_exec_running_times": [],
+      "avg_exec_times": [
+        0.0
+      ],
+      "avg_exec_validating_times": [],
+      "avg_fidelities": [
+        0
+      ],
+      "avg_hf_fidelities": [
+        0
+      ],
+      "avg_tr_depths": [
+        20.0
+      ],
+      "avg_tr_n2qs": [
+        0.0
+      ],
+      "avg_tr_xis": [
+        0.0
+      ],
+      "avg_xis": [
+        0.0
+      ],
+      "groups": [
+        "4"
+      ],
+      "job_ids": [
+        [
+          "d21shgpor4jc73889ls0"
+        ]
+      ],
+      "std_create_times": [
+        0.0
+      ],
+      "std_elapsed_times": [
+        0.0
+      ],
+      "std_exec_times": [
+        0.0
+      ],
+      "std_fidelities": [
+        0
+      ],
+      "std_hf_fidelities": [
+        0
+      ]
+    },
+    "start_time": 1753467073.3193643
+  }
+}
